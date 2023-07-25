@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/</loc>
-         <lastmod>2023-07-24</lastmod>
+         <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/__init__/</loc>
-         <lastmod>2023-07-24</lastmod>
+         <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/basic/</loc>
-         <lastmod>2023-07-24</lastmod>
+         <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/intro/</loc>
-         <lastmod>2023-07-24</lastmod>
+         <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/pandas/</loc>
-         <lastmod>2023-07-24</lastmod>
+         <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fralfaro/DS-Python-Course/seaborn/</loc>
-         <lastmod>2023-07-24</lastmod>
+         <lastmod>2023-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
